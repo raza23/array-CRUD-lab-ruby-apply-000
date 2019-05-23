@@ -40,7 +40,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  array = [1,2,3,4]
+  array = [1,"am",3,4]
   index_number= [1]
   return index_number
   
